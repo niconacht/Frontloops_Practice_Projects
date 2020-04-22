@@ -1,4 +1,4 @@
-/*///////////////RESET////////////////////////////////*/
+/*/////////////////////RESET//////////////////////////*/
 * http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -108,7 +108,7 @@ box-shadow: 6px 7px 7px -4px rgba(0,0,0,0.47);
 }
 
 
-/*//////////////////////////////Header//////////////////////*/
+/*/////////////////////Header//////////////////////////*/
 
 .header{
   padding-bottom: var(--container-padding);
@@ -126,7 +126,7 @@ h1 {
   line-height: 1.2rem;
 }
 
-/* ///////////////////////////////Social Sign-In */
+/*/////////////////////Sign-In-Buttons//////////////////////////*/
 
 .social-login{
   display:grid;
@@ -162,7 +162,7 @@ button:hover {
 
 }
 
-/*  ///////////////////////////Email Login - Bottom ////////////////*/
+/*/////////////////////Email Buttons//////////////////////////*/
 .email-login{
   display:flex;
   font-size: var(--small-font);
